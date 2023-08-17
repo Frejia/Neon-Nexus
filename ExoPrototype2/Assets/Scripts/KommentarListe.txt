@@ -1,0 +1,46 @@
+GameManager DONE
+GameMode DONE
+PlayerManager DONE
+ 
+AsteroidGenerator DONE
+InvalidLevelSafe
+MeshCreator
+MeshSmoothing DONE
+PerlinNoiseGen DONE 
+ScriptableInvalidLevel DONE
+RandomLevel DONE
+
+CameraInitializer DONE
+ChangeControls DONE
+EnemySeesPlayer DONE
+Health DONE
+Rotator
+NewRotator
+ShipMovement DONE
+
+Bullet 
+BulletPool
+EnemyPatternManager DONE
+ObjectsInView
+PatternManager
+PlayerShoot DONE
+Aim DONE
+BulletPatternEnum DONE
+BulletPatterns DONE
+EnemyAim DONE
+PlayerAim DONE
+
+Flying Controller
+Character Move AB
+
+SoundLibrary
+
+ButtonHandler DONE
+
+FieldCollision
+Dissolve
+
+ReachGoal
+
+
+Write Descriptions for all Systems
